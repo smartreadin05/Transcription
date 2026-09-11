@@ -1,0 +1,2 @@
+https://example.com/course2/video1.mp4
+https://example.com/course2/video2.mp4
